@@ -1,0 +1,19 @@
+﻿@using EployeeManagment.ApplicationService.Contract.Dtos.User;
+@model AddUserDto
+@{
+    ViewData["Title"] = "Home Page";
+}
+<h1>ثبت کاربر جدید</h1>
+<form asp-controller="Home" asp-action="Index" >
+
+    <div class="mb-3">
+        <label for="exampleFormControlInput1" class="form-label">نام </label>
+        <input type="text" class="form-control" id="exampleFormControlInput1" asp-for="Name">
+    </div>
+
+    <div class="mb-3">
+        <label for="exampleFormControlInput1" class="form-label">نام خانوادگی  </label>
+        <input type="text" class="form-control" id="exampleFormControlInput1" asp-for="Family">
+    </div>
+    <input type="submit" value="ثبت کاربر جدید" class="btn btn-outline-success" />
+</form>

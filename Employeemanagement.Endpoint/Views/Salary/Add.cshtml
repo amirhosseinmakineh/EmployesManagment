@@ -1,0 +1,10 @@
+﻿@using EployeeManagment.ApplicationService.Contract.Dtos.Salary;
+@model AddSalaryDto
+<form asp-controller="Employes" asp-action="SetUserSalary">
+    <div class="mb-3">
+        <input type="hidden" asp-for="UserId" />
+        <label class="form-label">دستمزد</label>
+        <input type="text" class="form-control" id="exampleInputPassword1" asp-for="Amount">
+    </div>
+    <button type="submit" class="btn btn-primary">افزودن دستمزد </button>
+</form>

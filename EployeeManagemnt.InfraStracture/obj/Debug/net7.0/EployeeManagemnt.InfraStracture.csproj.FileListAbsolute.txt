@@ -1,0 +1,17 @@
+D:\Backend\CompanyTasks\Employeemanagement.Endpoint\EployeeManagemnt.InfraStracture\bin\Debug\net7.0\EployeeManagemnt.InfraStracture.deps.json
+D:\Backend\CompanyTasks\Employeemanagement.Endpoint\EployeeManagemnt.InfraStracture\bin\Debug\net7.0\EployeeManagemnt.InfraStracture.dll
+D:\Backend\CompanyTasks\Employeemanagement.Endpoint\EployeeManagemnt.InfraStracture\bin\Debug\net7.0\EployeeManagemnt.InfraStracture.pdb
+D:\Backend\CompanyTasks\Employeemanagement.Endpoint\EployeeManagemnt.InfraStracture\obj\Debug\net7.0\EployeeManagemnt.InfraStracture.GeneratedMSBuildEditorConfig.editorconfig
+D:\Backend\CompanyTasks\Employeemanagement.Endpoint\EployeeManagemnt.InfraStracture\obj\Debug\net7.0\EployeeManagemnt.InfraStracture.AssemblyInfoInputs.cache
+D:\Backend\CompanyTasks\Employeemanagement.Endpoint\EployeeManagemnt.InfraStracture\obj\Debug\net7.0\EployeeManagemnt.InfraStracture.AssemblyInfo.cs
+D:\Backend\CompanyTasks\Employeemanagement.Endpoint\EployeeManagemnt.InfraStracture\obj\Debug\net7.0\EployeeManagemnt.InfraStracture.csproj.CoreCompileInputs.cache
+D:\Backend\CompanyTasks\Employeemanagement.Endpoint\EployeeManagemnt.InfraStracture\obj\Debug\net7.0\EployeeManagemnt.InfraStracture.dll
+D:\Backend\CompanyTasks\Employeemanagement.Endpoint\EployeeManagemnt.InfraStracture\obj\Debug\net7.0\refint\EployeeManagemnt.InfraStracture.dll
+D:\Backend\CompanyTasks\Employeemanagement.Endpoint\EployeeManagemnt.InfraStracture\obj\Debug\net7.0\EployeeManagemnt.InfraStracture.pdb
+D:\Backend\CompanyTasks\Employeemanagement.Endpoint\EployeeManagemnt.InfraStracture\obj\Debug\net7.0\ref\EployeeManagemnt.InfraStracture.dll
+D:\Backend\CompanyTasks\Employeemanagement.Endpoint\EployeeManagemnt.InfraStracture\bin\Debug\net7.0\EmployeeManagment.Domain.dll
+D:\Backend\CompanyTasks\Employeemanagement.Endpoint\EployeeManagemnt.InfraStracture\bin\Debug\net7.0\EmployeeManagment.Domain.pdb
+D:\Backend\CompanyTasks\Employeemanagement.Endpoint\EployeeManagemnt.InfraStracture\obj\Debug\net7.0\EployeeManagemnt.InfraStracture.csproj.AssemblyReference.cache
+D:\Backend\CompanyTasks\Employeemanagement.Endpoint\EployeeManagemnt.InfraStracture\obj\Debug\net7.0\EployeeManagemnt.InfraStracture.csproj.CopyComplete
+D:\Backend\CompanyTasks\Employeemanagement.Endpoint\EployeeManagemnt.InfraStracture\bin\Debug\net7.0\EployeeManagemnt.InfraStracture.runtimeconfig.json
+D:\Backend\CompanyTasks\Employeemanagement.Endpoint\EployeeManagemnt.InfraStracture\obj\Debug\net7.0\EployeeManagemnt.InfraStracture.genruntimeconfig.cache

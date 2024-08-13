@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v7.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v7.0": {
+      "EployeeManagment.ApplicationService.Contract/1.0.0": {
+        "dependencies": {
+          "EmployeeManagment.Domain": "1.0.0"
+        },
+        "runtime": {
+          "EployeeManagment.ApplicationService.Contract.dll": {}
+        }
+      },
+      "EmployeeManagment.Domain/1.0.0": {
+        "runtime": {
+          "EmployeeManagment.Domain.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "EployeeManagment.ApplicationService.Contract/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "EmployeeManagment.Domain/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

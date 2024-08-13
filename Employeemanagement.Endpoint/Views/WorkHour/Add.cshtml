@@ -1,0 +1,18 @@
+﻿@using EployeeManagment.ApplicationService.Contract.Dtos.WorkHour;
+@model AddWorkHourDto
+<form asp-controller="Employes" asp-action="AddHourToUser">
+    <input type="hidden" asp-for="UserId" />
+    <div class="mb-3">
+        <label class="form-label">روز هفته</label>
+        <input type="text" class="form-control" aria-describedby="emailHelp" asp-for="DayOfWeek">
+    </div>
+    <div class="mb-3">
+        <label class="form-label">زمان شروع کار </label>
+        <input type="time" class="form-control" id="exampleInputPassword1" asp-for="Startworkhour">
+    </div>
+    <div class="mb-3">
+        <label class="form-label">زمان پایان کار </label>
+        <input type="time" class="form-control" id="exampleInputPassword1" asp-for="Endtworkhour">
+    </div>
+    <button type="submit" class="btn btn-primary">افزودن ساعت کاری</button>
+</form>

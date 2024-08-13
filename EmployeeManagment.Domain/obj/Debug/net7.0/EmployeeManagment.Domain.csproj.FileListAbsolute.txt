@@ -1,0 +1,11 @@
+D:\Backend\CompanyTasks\Employeemanagement.Endpoint\EmployeeManagment.Domain\bin\Debug\net7.0\EmployeeManagment.Domain.deps.json
+D:\Backend\CompanyTasks\Employeemanagement.Endpoint\EmployeeManagment.Domain\bin\Debug\net7.0\EmployeeManagment.Domain.dll
+D:\Backend\CompanyTasks\Employeemanagement.Endpoint\EmployeeManagment.Domain\bin\Debug\net7.0\EmployeeManagment.Domain.pdb
+D:\Backend\CompanyTasks\Employeemanagement.Endpoint\EmployeeManagment.Domain\obj\Debug\net7.0\EmployeeManagment.Domain.GeneratedMSBuildEditorConfig.editorconfig
+D:\Backend\CompanyTasks\Employeemanagement.Endpoint\EmployeeManagment.Domain\obj\Debug\net7.0\EmployeeManagment.Domain.AssemblyInfoInputs.cache
+D:\Backend\CompanyTasks\Employeemanagement.Endpoint\EmployeeManagment.Domain\obj\Debug\net7.0\EmployeeManagment.Domain.AssemblyInfo.cs
+D:\Backend\CompanyTasks\Employeemanagement.Endpoint\EmployeeManagment.Domain\obj\Debug\net7.0\EmployeeManagment.Domain.csproj.CoreCompileInputs.cache
+D:\Backend\CompanyTasks\Employeemanagement.Endpoint\EmployeeManagment.Domain\obj\Debug\net7.0\EmployeeManagment.Domain.dll
+D:\Backend\CompanyTasks\Employeemanagement.Endpoint\EmployeeManagment.Domain\obj\Debug\net7.0\refint\EmployeeManagment.Domain.dll
+D:\Backend\CompanyTasks\Employeemanagement.Endpoint\EmployeeManagment.Domain\obj\Debug\net7.0\EmployeeManagment.Domain.pdb
+D:\Backend\CompanyTasks\Employeemanagement.Endpoint\EmployeeManagment.Domain\obj\Debug\net7.0\ref\EmployeeManagment.Domain.dll

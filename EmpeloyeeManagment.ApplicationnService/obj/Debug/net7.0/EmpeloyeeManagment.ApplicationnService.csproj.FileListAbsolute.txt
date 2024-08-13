@@ -1,0 +1,17 @@
+D:\Backend\CompanyTasks\Employeemanagement.Endpoint\EmpeloyeeManagment.ApplicationnService\bin\Debug\net7.0\EmpeloyeeManagment.ApplicationnService.deps.json
+D:\Backend\CompanyTasks\Employeemanagement.Endpoint\EmpeloyeeManagment.ApplicationnService\bin\Debug\net7.0\EmpeloyeeManagment.ApplicationnService.dll
+D:\Backend\CompanyTasks\Employeemanagement.Endpoint\EmpeloyeeManagment.ApplicationnService\bin\Debug\net7.0\EmpeloyeeManagment.ApplicationnService.pdb
+D:\Backend\CompanyTasks\Employeemanagement.Endpoint\EmpeloyeeManagment.ApplicationnService\obj\Debug\net7.0\EmpeloyeeManagment.ApplicationnService.GeneratedMSBuildEditorConfig.editorconfig
+D:\Backend\CompanyTasks\Employeemanagement.Endpoint\EmpeloyeeManagment.ApplicationnService\obj\Debug\net7.0\EmpeloyeeManagment.ApplicationnService.AssemblyInfoInputs.cache
+D:\Backend\CompanyTasks\Employeemanagement.Endpoint\EmpeloyeeManagment.ApplicationnService\obj\Debug\net7.0\EmpeloyeeManagment.ApplicationnService.AssemblyInfo.cs
+D:\Backend\CompanyTasks\Employeemanagement.Endpoint\EmpeloyeeManagment.ApplicationnService\obj\Debug\net7.0\EmpeloyeeManagment.ApplicationnService.csproj.CoreCompileInputs.cache
+D:\Backend\CompanyTasks\Employeemanagement.Endpoint\EmpeloyeeManagment.ApplicationnService\obj\Debug\net7.0\EmpeloyeeManagment.ApplicationnService.dll
+D:\Backend\CompanyTasks\Employeemanagement.Endpoint\EmpeloyeeManagment.ApplicationnService\obj\Debug\net7.0\refint\EmpeloyeeManagment.ApplicationnService.dll
+D:\Backend\CompanyTasks\Employeemanagement.Endpoint\EmpeloyeeManagment.ApplicationnService\obj\Debug\net7.0\EmpeloyeeManagment.ApplicationnService.pdb
+D:\Backend\CompanyTasks\Employeemanagement.Endpoint\EmpeloyeeManagment.ApplicationnService\obj\Debug\net7.0\ref\EmpeloyeeManagment.ApplicationnService.dll
+D:\Backend\CompanyTasks\Employeemanagement.Endpoint\EmpeloyeeManagment.ApplicationnService\bin\Debug\net7.0\EmployeeManagment.Domain.dll
+D:\Backend\CompanyTasks\Employeemanagement.Endpoint\EmpeloyeeManagment.ApplicationnService\bin\Debug\net7.0\EployeeManagment.ApplicationService.Contract.dll
+D:\Backend\CompanyTasks\Employeemanagement.Endpoint\EmpeloyeeManagment.ApplicationnService\bin\Debug\net7.0\EployeeManagment.ApplicationService.Contract.pdb
+D:\Backend\CompanyTasks\Employeemanagement.Endpoint\EmpeloyeeManagment.ApplicationnService\bin\Debug\net7.0\EmployeeManagment.Domain.pdb
+D:\Backend\CompanyTasks\Employeemanagement.Endpoint\EmpeloyeeManagment.ApplicationnService\obj\Debug\net7.0\EmpeloyeeManagment.ApplicationnService.csproj.AssemblyReference.cache
+D:\Backend\CompanyTasks\Employeemanagement.Endpoint\EmpeloyeeManagment.ApplicationnService\obj\Debug\net7.0\EmpeloyeeManagment.ApplicationnService.csproj.CopyComplete

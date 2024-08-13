@@ -1,0 +1,33 @@
+﻿@using EployeeManagment.ApplicationService.Contract.Dtos.User;
+@model IList<UserDto>
+<table class="table">
+    <thead>
+        <tr>
+            <th scope="col">نام</th>
+            <th scope="col">نام خانوادگی</th>
+            <th scope="col">مجموع ساعت کاری  </th>
+            <th scope="col">میزان حقوق به ازای هر ساعت </th>
+            <th scope="col">میزان حقوق به ازای هر هفته </th>
+            <th scope="col">میزان حقوق به ازای هر ماه </th>
+            <th scope="col">افزودن ساعت کاری </th>
+            <th scope="col">افزودن حقوق </th>
+        </tr>
+    </thead>
+    @foreach (var user in Model)
+    {
+        <tbody>
+
+            <tr>
+                <th>@user.Name</th>
+                <td>@user.Family</td>
+                <td>@user.TotalWorkingHours</td>
+                <td>@string.Format($"{user.Salary} تومان")</td>
+                <td>@string.Format($"{user.SalaryPerWeek} تومان")</td>
+                <td>@string.Format($"{user.SalaryPerMonth} تومان")</td>
+                <td><a class="btn btn-success" asp-controller="WorkHour" asp-action="Add" asp-route-userId="@user.UserId">افزودن ساعت کاری جدید</a></td>
+                <td><a class="btn btn-warning" asp-controller="Salary" asp-action="Add" asp-route-userId="@user.UserId">افزودن حقوق </a></td>
+            </tr>
+        </tbody>
+    }
+
+</table>
